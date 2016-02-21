@@ -1,3 +1,7 @@
+# BB-8 Head Control
+
+Currently moves randomly and only supports one neopixel (because that's all I had installed when I wrote it). Should get updated pretty soon. Will add Bluetooth or XBee for serial comm.
+
 # Parts required
 
  - Adafruit FX Mini sound board (https://www.creatroninc.com/product/audio-fx-mini-sound-board-wav-ogg-trigger-with-2mb-flash/)
