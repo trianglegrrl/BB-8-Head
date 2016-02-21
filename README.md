@@ -1,5 +1,7 @@
 # BB-8 Head Control
 
+ - Video, 2016-02-21: https://www.youtube.com/watch?v=j5Xhz0thiGI
+
 Currently moves randomly and only supports one neopixel (because that's all I had installed when I wrote it). Should get updated pretty soon. Will add Bluetooth or XBee for serial comm.
 
 # Parts required
